@@ -1,5 +1,6 @@
 FROM apify/actor-node:16
 FROM apify/actor-node-playwright-chrome:16
+FROM apify/actor-node-puppeteer-chrome:16
 
 
 
