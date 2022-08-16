@@ -1,5 +1,5 @@
 FROM apify/actor-node-chrome
-
+FROM apify/actor-node:16
 # Copy source code
 COPY . ./
 
